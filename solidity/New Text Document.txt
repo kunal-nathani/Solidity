@@ -1,0 +1,2 @@
+httpssolidity-by-example.orginheritance 
+The blog consist of inheritance in solidity !!
